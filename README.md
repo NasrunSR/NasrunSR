@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NasrunSR
 - 👀 I’m interested in Machine Learning, Artificial Intelligence, Embedded Systems and Autonomous Vehicles.
-- 🌱 I’m currently developing Machine Learning, Artificial Intelligence, Embedded Systems projects.
+- 🌱 I’m currently developing Machine Learning, Artificial Intelligence and Embedded Systems projects.
 - 💞️ I’m looking to collaborate with programmers.
 
 
